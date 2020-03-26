@@ -13,6 +13,7 @@
 		24055ACE242D13F8000ACCB6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24055ACC242D13F8000ACCB6 /* Main.storyboard */; };
 		24055AD0242D13FA000ACCB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24055ACF242D13FA000ACCB6 /* Assets.xcassets */; };
 		24055AD3242D13FA000ACCB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24055AD1242D13FA000ACCB6 /* LaunchScreen.storyboard */; };
+		24055ADB242D26F6000ACCB6 /* waltograph42.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24055ADA242D26F6000ACCB6 /* waltograph42.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		24055ACF242D13FA000ACCB6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24055AD2242D13FA000ACCB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24055AD4242D13FA000ACCB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24055ADA242D26F6000ACCB6 /* waltograph42.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = waltograph42.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		24055AC5242D13F8000ACCB6 /* Disney app */ = {
 			isa = PBXGroup;
 			children = (
+				24055ADA242D26F6000ACCB6 /* waltograph42.ttf */,
 				24055AC6242D13F8000ACCB6 /* AppDelegate.swift */,
 				24055AC8242D13F8000ACCB6 /* SceneDelegate.swift */,
 				24055ACA242D13F8000ACCB6 /* ViewController.swift */,
@@ -128,6 +131,7 @@
 				24055AD3242D13FA000ACCB6 /* LaunchScreen.storyboard in Resources */,
 				24055AD0242D13FA000ACCB6 /* Assets.xcassets in Resources */,
 				24055ACE242D13F8000ACCB6 /* Main.storyboard in Resources */,
+				24055ADB242D26F6000ACCB6 /* waltograph42.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
